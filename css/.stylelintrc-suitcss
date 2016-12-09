@@ -1,0 +1,16 @@
+{
+  "extends": "stylelint-config-suitcss",
+  "quiet": true,
+  "rules": {
+    "max-empty-lines": 3,
+    "selector-pseudo-element-colon-notation": "single",
+    "declaration-block-properties-order": null,
+    "rule-non-nested-empty-line-before": null,
+    "rule-nested-empty-line-before": null,
+    "number-leading-zero": null,
+    "block-no-empty": null,
+    "at-rule-empty-line-before": null,
+    "length-zero-no-unit": null,
+    "comment-whitespace-inside": null
+  }
+}
